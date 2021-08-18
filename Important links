@@ -4,3 +4,6 @@ https://www.cyberbit.com/blog/endpoint-security/anti-vm-and-anti-sandbox-explain
 
 yara tool
 https://yara.readthedocs.io/en/v3.4.0/writingrules.html
+
+dataSet:
+https://www.kaggle.com/c/malware-classification/data
