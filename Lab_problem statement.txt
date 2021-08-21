@@ -1,0 +1,21 @@
+Lab 3
+
+Problem Statement:
+
+in this lab you need to create a yara rule out of any malware family. you can download samples from https://github.com/InQuest/malware-samples.
+do following task in lab
+
+1. create a yara rule with .yara for selected malware.
+
+2. create a report with folowing details.
+     description of malware
+     description of yara paterns (why have u chosen the patern and why you think the patern cannot occurs in clean file)
+
+3. create a folder (with ur id _presiding with ur name) which contains following
+     created yara rule
+     report
+     the samples chosen
+
+4. upload the created folder on git hub repo 
+
+5. share the link 
