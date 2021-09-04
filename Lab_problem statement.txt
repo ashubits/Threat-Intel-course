@@ -19,3 +19,28 @@ do following task in lab
 4. upload the created folder on git hub repo 
 
 5. share the link 
+
+
+
+
+Lab 4
+
+
+register on malware bazaar
+
+Family name
+
+file type
+
+Collection < other similar samples>
+
+static analysis <with screanshots>
+
+dynamic analysis <with screanshots>
+
+create a report
+
+add few points
+< about malware family>
+< discuss similarity among samples>
+< yara rule>
