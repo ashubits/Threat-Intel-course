@@ -56,3 +56,14 @@ Create report with following details
 <what file do>
 <Threat Intel (collect similar file info from wild)>
 <yara rule>
+
+Samples :
+51a319db15b885161702caf96ac6f0de
+02cd26ed2813d996d4d9d1277636dd91
+3fa51b2984d79bc69a280870e4387cf0
+2b1f13e2948b9b473ad4c3eb6a852ea7
+264ffd5eaed5cf99848fbd310628a162
+c6118068b71c72b7f2b4428d27132400
+58ec1528c7f12264808eaf2ac1eafeb6
+e90ed77286e7d685ac3809f366f19d75
+045cb8ecf9a4b99d30f66911acb250b6
