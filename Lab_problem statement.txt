@@ -44,3 +44,15 @@ add few points
 < about malware family>
 < discuss similarity among samples>
 < yara rule>
+
+
+Lab 5
+
+get the sample from same course git repo filename:sample_lab6_18_sep
+
+Create report with following details
+<type of file>
+<Static analysis>
+<what file do>
+<Threat Intel (collect similar file info from wild)>
+<yara rule>
